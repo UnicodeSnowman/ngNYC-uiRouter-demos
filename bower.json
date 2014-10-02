@@ -1,0 +1,20 @@
+{
+  "name": "router_talk",
+  "version": "0.0.0",
+  "authors": [
+    "unicodesnowman <utfsnowman@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "angular-ui-router": "~0.2.11",
+    "angularjs": "~1.2.26"
+  }
+}
